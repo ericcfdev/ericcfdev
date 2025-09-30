@@ -4,7 +4,7 @@
   💻 Java | Python | TypeScript (Aprendendo)<br/>
   📍 Palmas, TO - 🇧🇷 Brasil • Aberto(a) a projetos e estágios
 </p>
-****
+
 ---
 
 ## 🔎 Resumo
