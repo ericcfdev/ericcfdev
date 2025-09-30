@@ -30,12 +30,8 @@ Estudante com experiência prática em suporte técnico, análise de sistemas e 
 - 🔸 **[Árvore Binária](https://ericcfdev.github.io/arvore-binaria/)** — (GitHub Pages).  
 - Implementa uma Árvore Binária com métodos para inserir, remover e buscar nós, além de travessias (in-order, pre-order, post-order). Inclui exemplos de uso e casos de teste para validar complexidade e comportamento com o adicional de um painel mostrando o funcionamento de cada linha do código da árvore binária em pyhton.
 
-  https://ericcfdev.github.io/arvore-binaria/
-
 - 🔸 **[PDF-Pro (site / protótipo)](https://ericcfdev.github.io/pdf-pro/)** — (GitHub Pages).  
 - Protótipo de aplicação frontend para manipulação de arquivos PDF: upload, pré-visualização e exportação. Implementado como site estático (GitHub Pages) com interface construída em TypeScript/HTML/CSS.
-
-  https://ericcfdev.github.io/pdf-pro/
 
 ---
 
