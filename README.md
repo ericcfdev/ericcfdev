@@ -1,6 +1,6 @@
 <h1 align="center">Éric Cavalcante França</h1>
 <p align="center">
-  🎓 Estudante de Engenharia de Software (ULBRA) • 3º período<br/>
+  🎓 Estudante de Engenharia de Software (ULBRA) • 4º período<br/>
   💻 Java | Python | TypeScript (Aprendendo)<br/>
   📍 Palmas, TO - 🇧🇷 Brasil • Aberto(a) a projetos e estágios
 </p>
