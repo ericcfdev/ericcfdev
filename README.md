@@ -114,18 +114,6 @@ Tenho documentado e disponibilizado materiais de estudo, fórmulas e calculadora
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/ericcfdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericcfdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=M%C3%A9tricas%20do%20GitHub&hide_border=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/ericcfdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericcfdev&layout=compact&langs_count=6&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas&hide_border=true" alt="Linguagens" />
-  </a>
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ericcfdev&label=Visitantes+do+Perfil&color=007ACC&style=for-the-badge" alt="Contador de Visitas" />
