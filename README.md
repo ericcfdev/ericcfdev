@@ -16,7 +16,8 @@
 
 <div align="center">
   <a href="mailto:ericcavalcantefranca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ericcfdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.threads.net/@eric_cf"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
   <a href="https://instagram.com/eric_cf"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
@@ -24,23 +25,36 @@
 
 ## 💻 Tech Stack & Ferramentas
 
-**Linguagens** <br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-
-**Banco de Dados** <br>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-<img src="https://img.shields.io/badge/T--SQL-00468C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
-**Design & UI/UX** <br>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
-
-**Infra & Mobile** <br>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/Redes-005571?style=for-the-badge&logo=cisco&logoColor=white">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>Linguagens</b></td>
+      <td align="center" width="25%"><b>Banco de Dados</b></td>
+      <td align="center" width="25%"><b>Design & UI/UX</b></td>
+      <td align="center" width="25%"><b>Infra & Mobile</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/T--SQL-00468C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Redes-005571?style=for-the-badge&logo=cisco&logoColor=white">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -104,17 +118,17 @@ Tenho documentado e disponibilizado materiais de estudo, fórmulas e calculadora
 
 <div align="center">
   <a href="https://github.com/ericcfdev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericcfdev&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=8b949e&icon_color=007ACC" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericcfdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=M%C3%A9tricas%20do%20GitHub&hide_border=true" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/ericcfdev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericcfdev&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=007ACC&text_color=8b949e" alt="Linguagens" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericcfdev&layout=compact&langs_count=6&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas&hide_border=true" alt="Linguagens" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ericcfdev&label=Visitantes&color=007ACC&style=for-the-badge" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=ericcfdev&label=Visitantes+do+Perfil&color=007ACC&style=for-the-badge" alt="Contador de Visitas" />
 </div>
 
 <p align="center">
