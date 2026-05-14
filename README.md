@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="BARACHELAN.png" alt="Éric Cavalcante França Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
+  <img src="Banner-EricCF.png" alt="Éric Cavalcante França Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
 </div>
 
 <br>
