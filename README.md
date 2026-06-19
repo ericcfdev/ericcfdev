@@ -63,7 +63,7 @@
 | :--- | :--- | :--- |
 | 🥊 **Fight Night Theme** | Tema escuro de alto contraste para VS Code, focado em reduzir a fadiga visual. Sucesso no Marketplace. | [🔗 Acessar](https://marketplace.visualstudio.com/items?itemName=EricCF.fight-night) |
 | 📄 **PDF Pro** | Ferramenta desenvolvida para manipulação e gestão avançada de arquivos PDF. | [🔗 Acessar](https://ericcfdev.github.io/pdf-pro/) |
-| 🌳 **Árvore Binária** | Implementação visual e algorítmica de estruturas de dados em Árvore Binária. | [🔗 Acessar](https://ericcfdev.github.io/arvore-binaria/) |
+| 🌳 **Árvore Binária** | Implementação visual e algorítmica de estruturas de dados em Árvore Binária. | [🔗 Acessar](https://ericcfdev.github.io/arvore-binaria-de-busca/) |
 
 ---
 
