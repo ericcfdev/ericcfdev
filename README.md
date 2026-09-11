@@ -107,10 +107,7 @@ Tenho documentado e disponibilizado materiais de estudo, fórmulas e calculadora
 
 **Suporte e Analista de Sistemas** @ *Norte.Net Telecom* `(Abr 2024 - Jul 2024)`
 > Monitoramento e manutenção de infraestrutura de rede, garantindo alta disponibilidade. Diagnóstico profundo de hardware, software e configuração de dispositivos, além de elaboração de documentação técnica padronizada.
-
-**Administrativo e Social Media** @ *J&F Designer* `(Mai 2023 - Dez 2023)`
-> Gestão financeira, controle de estoque e liderança de equipe de vendas. Criação de identidade visual, gerenciamento de tráfego pago e produção de conteúdo para mídias sociais.
-
+> 
 ---
 
 
