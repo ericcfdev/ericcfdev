@@ -100,14 +100,6 @@ Tenho documentado e disponibilizado materiais de estudo, fórmulas e calculadora
     <li><a href="https://ericcfdev.github.io/icc-conteudos/">Fundamentos da Computação</a></li>
   </ul>
 </details>
-
----
-
-## 💼 Experiência Profissional
-
-**Suporte e Analista de Sistemas** @ *Norte.Net Telecom* `(Abr 2024 - Jul 2024)`
-> Monitoramento e manutenção de infraestrutura de rede, garantindo alta disponibilidade. Diagnóstico profundo de hardware, software e configuração de dispositivos, além de elaboração de documentação técnica padronizada.
-> 
 ---
 
 
