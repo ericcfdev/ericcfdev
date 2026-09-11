@@ -100,8 +100,6 @@ Tenho documentado e disponibilizado materiais de estudo, fórmulas e calculadora
     <li><a href="https://ericcfdev.github.io/icc-conteudos/">Fundamentos da Computação</a></li>
   </ul>
 </details>
----
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ericcfdev&label=Visitantes+do+Perfil&color=007ACC&style=for-the-badge" alt="Contador de Visitas" />
