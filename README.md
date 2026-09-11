@@ -6,23 +6,23 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Bacharelando+em+Engenharia+de+Software;Analista+de+Sistemas+%26+Suporte;Desenvolvedor+Java%2C+Python+%26+TypeScript;UI%2FUX+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=650&lines=Bacharelando+em+Engenharia+de+Software+%40+ULBRA;Desenvolvedor+Java%2C+Python+%26+TypeScript;Experi%C3%AAncia+em+Suporte+T%C3%A9cnico+e+Redes;Foco+em+UI%2FUX+e+Bancos+de+Dados" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  Transformando lógica em soluções eficientes. Estudante do 4º período de <b>Engenharia de Software</b> na ULBRA, com experiência prática em análise de sistemas, infraestrutura de redes e desenvolvimento.
+  Estudante de Engenharia de Software na ULBRA Palmas, com experiência prática em suporte técnico, infraestrutura de redes e desenvolvimento de aplicações. Interesse em construir soluções client-side eficientes e em boas práticas de UI/UX.
 </p>
 
 <div align="center">
   <a href="mailto:ericcavalcantefranca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/ericcfdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/eric_cf"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/ericcfdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
 ---
 
-## 💻 Tech Stack & Ferramentas
+## 💻 Stack Técnica
 
 <div align="center">
   <table>
@@ -36,7 +36,8 @@
       <td align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"><br>
@@ -57,21 +58,35 @@
 
 ---
 
-## 🚀 Meus Projetos & Softwares
+## 📊 GitHub Stats
 
-| Projeto | Descrição | Link |
-| :--- | :--- | :--- |
-| 🥊 **Fight Night Theme** | Tema escuro de alto contraste para VS Code, focado em reduzir a fadiga visual. Sucesso no Marketplace. | [🔗 Acessar](https://marketplace.visualstudio.com/items?itemName=EricCF.fight-night) |
-| 📄 **PDF Pro** | Ferramenta desenvolvida para manipulação e gestão avançada de arquivos PDF. | [🔗 Acessar](https://ericcfdev.github.io/pdf-pro/) |
-| 🌳 **Árvore Binária** | Implementação visual e algorítmica de estruturas de dados em Árvore Binária. | [🔗 Acessar](https://ericcfdev.github.io/arvore-binaria-de-busca/) |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ericcfdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericcfdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericcfdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+</div>
 
 ---
 
-## 📚 Hub Acadêmico (ULBRA)
-Tenho documentado e disponibilizado materiais de estudo, fórmulas e calculadoras das disciplinas de Engenharia de Software.
+## 🚀 Projetos
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :--- |
+| 🥊 **Fight Night Theme** | Tema escuro de alto contraste para VS Code, focado em reduzir a fadiga visual. Publicado no Marketplace. | [Acessar](https://marketplace.visualstudio.com/items?itemName=EricCF.fight-night) |
+| 📄 **PDF Pro Studio** | Toolkit client-side para manipulação de PDF (mesclar, dividir, extrair, reordenar páginas, conversão de imagem/HTML/texto). | [Acessar](https://ericcfdev.github.io/pdf-pro/) |
+| 🌳 **Árvore Binária** | Implementação visual e algorítmica de estruturas de dados em Árvore Binária de Busca. | [Acessar](https://ericcfdev.github.io/arvore-binaria-de-busca/) |
+
+---
+
+## 📚 Materiais Acadêmicos (ULBRA)
+
+Documentação e materiais de apoio produzidos ao longo do curso de Engenharia de Software.
 
 <details>
-  <summary><b>📊 Fundamentos de Ciência de Dados (FCD)</b> <i>(Clique para expandir)</i></summary>
+  <summary><b>📊 Fundamentos de Ciência de Dados (FCD)</b></summary>
   <ul>
     <li><a href="https://ericcfdev.github.io/fcd-conteudos/">Conteúdos e Resumos</a></li>
     <li><a href="https://ericcfdev.github.io/fcd-passo-a-passo/">Tutoriais Passo a Passo</a></li>
@@ -101,8 +116,10 @@ Tenho documentado e disponibilizado materiais de estudo, fórmulas e calculadora
   </ul>
 </details>
 
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ericcfdev&label=Visitantes+do+Perfil&color=007ACC&style=for-the-badge" alt="Contador de Visitas" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribuições" width="100%" />
 </div>
 
 <p align="center">
